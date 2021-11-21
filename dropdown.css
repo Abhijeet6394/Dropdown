@@ -1,0 +1,38 @@
+a{
+    display: none;
+    text-decoration: none;
+    margin: 5px;
+}
+ .wrapper:hover a{ 
+    display: initial;
+    display: block;
+}
+li{display: none;
+}
+.wrapper2:hover li{
+    display: initial;
+    display: block;
+}
+.wrapper{
+    display: inline-block;
+}
+.wrapper2{
+    display: inline-block;
+}
+.main{
+    margin: 200px 0px 0px 450px;
+}
+button{
+    background-color:#4477c9;
+    padding: 2px;
+    color: #f0fafa;
+
+}
+li:hover{
+    background-color: #bcc4c4;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #b6dbdb;
+}
